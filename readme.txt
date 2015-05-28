@@ -41,7 +41,7 @@ Use simple short-code `[kleis-pricing-table id=999 template=template_name]` (999
 == Frequently Asked Questions ==
 
 * How many templates are included?
-There's only one template included, named ottavio
+There's 5 templates included
 * The pricing table is unstyled. Why?
 Because this version is made for wp theme developer. So the pricing table css should reside in the style.css of the theme
 
